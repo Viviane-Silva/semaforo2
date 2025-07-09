@@ -1,4 +1,3 @@
-Projeto Semáforo Interativo com JavaScript
 Este projeto é uma aplicação simples que simula o funcionamento de um semáforo usando HTML, CSS e JavaScript. Ele permite ao usuário interagir com três botões para alterar a cor de um elemento visual e exibir mensagens correspondentes.
 
 🧠 Conceitos aplicados
